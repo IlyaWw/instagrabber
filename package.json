@@ -1,0 +1,18 @@
+{
+  "name": "instagrabber",
+  "version": "0.0.1",
+  "description": "Bulk downloader for saved media",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "IlyaWw",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
